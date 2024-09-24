@@ -15,8 +15,10 @@ class nexion:
     
     def __dev__(self):
         org.employees = {
+            "Deolin": "Founder",
             "Caeden": "Founder",
-            "Deolin": "Founder"
+            "Trivee": "Co-Owner Of Nexion Hosting"
+            
         } 
 ```
 
